@@ -1,2 +1,9 @@
+*.o
+*.obj
 *.exe
 *.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+a.out
